@@ -1,7 +1,15 @@
 # Lesson 1 - The Hour of Code
+
+## Lesson
 Go through the hour of code starting here:
 [Hour of Code] (http://studio.code.org/hoc/1)
 
-## Notes
-Use the teacher's computer to do the videos, but have the kids work at their own pace for the exercises. 
+## Wrap-up
+What did we learn about? 
+
+### Things to remember:
+* Programming is fun
+* Programmers are ~~lazy~~ resourceful
+ * Using loops makes things easier!
+* Computers are logical, and they do just what you tell them to
 
