@@ -5,10 +5,10 @@ Some lesson plans for teaching Middle schooler's how to program.
 We will be using Blockly to introduce the kids to basic programming concepts:
 
 * Flow control
-** loops
+ * loops
 * Logical operators
-** if/else
+ * if/else
 * Data Structures
-** Numbers
-** Strings
-** Arrays
+ * Numbers
+ * Strings
+ * Arrays
