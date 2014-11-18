@@ -18,7 +18,7 @@ end
 
 ### C
 ```C
-i = 5
+int i = 5;
 while(i>0) {
   clap();
   i = i - 1; 
@@ -27,7 +27,7 @@ while(i>0) {
 
 ### C (for loop)
 ```C
-for(i=5; i>0; i = i-1) {
+for(int i=5; i>0; i = i-1) {
   clap();
 }
 ``` 
