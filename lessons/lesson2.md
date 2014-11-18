@@ -18,6 +18,7 @@ end
 
 ### C
 ```C
+/* Look familiar to the index card exercise? */
 int i = 5;
 while(i>0) {
   clap();
@@ -70,9 +71,20 @@ Have the students complete the lesson here:
 
 [Google Turtle](https://blockly-games.appspot.com/turtle?lang=en)
 
+Help/Key (Note that debugging techniques can be taught here)
+* Stars within a square: [Turtle 5](https://blockly-games.appspot.com/turtle?lang=en&level=5#h3b2vb)
+* [Turtle 6](https://blockly-games.appspot.com/turtle?lang=en&level=6#ftfm3a) 
+* [Turtle 7](https://blockly-games.appspot.com/turtle?lang=en&level=7#eeffd5)
+* [Turtle 8](https://blockly-games.appspot.com/turtle?lang=en&level=8#awusc6)
+* [Turtle 9](https://blockly-games.appspot.com/turtle?lang=en&level=9) Note right click, duplicate
+
+
 ## Extra 
 
 [Movie](https://blockly-games.appspot.com/movie?lang=en)
+
+## Homework 
+Use Turtle level 10 to draw a picture, and bring the link to share with the rest of the class. 
 
 ## Conclusion (5 minutes)
 New concepts learned? 
