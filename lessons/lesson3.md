@@ -21,7 +21,7 @@ Input 1B:  -12
 
 Input 1C:  "Apple"
 
-Ruby
+#### Ruby
 ```ruby
 
 def function1(number)
@@ -30,7 +30,7 @@ end
 
 ```
 
-C
+#### C
 ```C
 
  int function1(int number) {
@@ -47,7 +47,7 @@ Input 2B:   0, -17
 
 Input 2C:   "Chocolate", "Vanilla"
 
-Ruby
+#### Ruby
 ```ruby
 
 def function2(number1, number2)
@@ -56,7 +56,7 @@ end
 
 ```
 
-C
+#### C
 ```C
 
  int function2(int number1, int number2) {
