@@ -12,19 +12,54 @@ Loops and Functions
 
 Human calculators
 
-Function 1
+### Function 1
 Double the number given
 
 Input 1A: 7
+
 Input 1B:  -12
+
 Input 1C:  "Apple"
 
-Function 2
+```ruby
+
+def function1(number)
+  return number * 2
+end
+
+```
+
+```C
+
+ int function1(int number) {
+   return(number * 2);
+ }
+
+```
+### Function 2
 Add the two numbers
 
 Input 2A:   5, 6 
+
 Input 2B:   0, -17
+
 Input 2C:   "Chocolate", "Vanilla"
+
+```ruby
+
+def function2(number1, number2)
+  return number1 + number2
+end
+
+```
+
+```C
+
+ int function2(int number1, int number2) {
+   return(number1 + number2);
+ }
+
+```
 
 The job of a function is to do one specific task so that it can be reused later. 
 
