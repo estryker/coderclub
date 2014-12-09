@@ -24,10 +24,23 @@ Pair 3:
 
 This type of flow control is called 'Event Driven programming'
 
-## Guided Lesson (20 Minutes)
+### Ruby
+```ruby
+ def onBanana
+    walk_around_desk
+ end
+```
+
+```
+  def onClick
+     some_command
+  end
+```
+
+## Self Guided Lesson1 (20 Minutes)
 [Flappy bird!] (http://studio.code.org/flappy/1)
 
-## Self guided lesson (20 Minutes)
+## Self guided Lesson2 (20 Minutes)
 [Play lab] (http://studio.code.org/s/playlab/stage/1/puzzle/1)
 
 ## Extra / Homework 
