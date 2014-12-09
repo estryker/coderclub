@@ -31,7 +31,7 @@ This type of flow control is called 'Event Driven programming'
  end
 ```
 
-```
+```ruby
   def onClick
      some_command
   end
