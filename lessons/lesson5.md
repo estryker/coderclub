@@ -22,16 +22,20 @@ Start here, and build an application together:
 
 [blocklyCode] (https://blockly-demo.appspot.com/static/demos/code/index.html)
 
+Before getting to the examples, demonstrate some of the building blocks on the left side. 
+
+While going through the examples, show the Javascript and Python code. 
+
 ### Name prompt. 
 Write code that prompts the user for their name
 
-[name prompt 1] (https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#5in977)
+[Name Prompt 1] (https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#5in977)
 
 ### Name prompt 2. 
 Write code that says 'Hello' to everyone, unless the user
 is 'John', in which case they should say "Oh, it's you. "
 
-[name prompt 2] (https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#9md6nc)
+[Name Prompt 2] (https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#9md6nc)
 
 Note that usually, there is an 'else' option:
 
@@ -45,20 +49,52 @@ end
 
 ### Calculator
 Write a program that accepts two numbers, and adds them together
-[calculator] ()
+[Calculator] (https://blockly-demo.appspot.com/static/demos/code/index.html#tirtwk)
 
 ### List Builder
-Write a program that creates a grocery list
-[] ()
+Write a program that creates a grocery list containing three numbers.
+
+[Grocery List] (https://blockly-demo.appspot.com/static/demos/code/index.html#3qcjgd)
 
 ## Lesson about variables and types
+We have dealt with three types of variables:
 
-*  What is an Array?  An ordered list of items. 
+### String
+A string is a sequence of characters. 
+
+```ruby
+string = "This is a string of characters"
+```
+
+### Numbers
+Numbers in computer programs are usually either Integers or Real numbers (called Floating point numbers)
+
+Integers:
+```ruby
+num1 = 17
+```
+
+Real numbers:
+```ruby
+num2 = 3.5
+```
+
+### Arrays
+An Array is and ordered list of items. 
+
+```ruby
+array = [1,2,3]
+array2 = ["This", "is", "an", "array"]
+array3 = [1,"1",2,"two"]
+```
 
 ## Self guided lesson / project
 Write a program that asks the user his/her name, and echo it back. Then ask what the user's
 favorite color, and check to see if it is in the following list:
+
+```
 Pink, Red, Green, Yellow, Blue
+```
 
 If it is in the list, then print a message indicating that it is in the list. 
 
@@ -75,3 +111,4 @@ one in the list.
 
 ## Extra / Homework
 [Try Ruby] (http://tryruby.org)
+[Kids Ruby] (http://kidsruby.com/) *Download and install with your parent's permission!
