@@ -5,8 +5,8 @@
 Now, instead of index cards with pre-written inputs/outputs, let the students put their input on the board. 
 Write on the board: Name: with a box around it to lead into using variables. 
 
-Pick 3 (or more) students to answer the question: 'What is your name?'. Then underneather their name, 
-write 'Hello <name>'. 
+Pick 3 (or more) students to answer the question: 'What is your name?'. Once they write their names, 
+write 'Hello <name>' underneath on the board. 
 
 ## Ruby 
 
@@ -49,6 +49,7 @@ end
 
 ### Calculator
 Write a program that accepts two numbers, and adds them together
+
 [Calculator] (https://blockly-demo.appspot.com/static/demos/code/index.html#tirtwk)
 
 ### List Builder
@@ -111,4 +112,5 @@ one in the list.
 
 ## Extra / Homework
 [Try Ruby] (http://tryruby.org)
+
 [Kids Ruby] (http://kidsruby.com/) *Download and install with your parent's permission!
