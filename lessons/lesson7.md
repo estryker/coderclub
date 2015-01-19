@@ -21,8 +21,18 @@ but you will always have to look things up in documentation like this.
 1. Ask the user for a String using 'gets_prompt', and check to see if it starts with the letter 'a'
 1. Ask the user for a String using 'gets_prompt', and check to see if it starts with the letter 'a' or 'A' 
 1. Ask the user for a String using 'gets_prompt', and check to see if it starts with a vowel 
+1. Ask the user for a String using 'gets_prompt', and substitute (sub) the first 'e' with a '-'
+1. Ask the user for a String using 'gets_prompt', and substitute (sub) all 'e's with a '-'
 1. Ask the user for two numbers using 'gets_prompt', convert the input to Integers, and add them
-1. 
+1. Create an Array of numbers and find its length
+1. Create an Array of numbers and print out each value
+1. Create an Array of numbers and print out the first value
+1. Create an Array of numbers and print out the first and last value
+1. Create an Array of numbers and return the first three items
+1. Create an Array of numbers and add them all up, and print out the answer 
+1. Create an Array of numbers and return the sorted list
+1. Create an Array of numbers and sort the array (in place!) 
+1. Create an Array of numbers and find the lowest and the highest values
 
 ## Self guided lesson
 Write your own interactive program that a partner can run. Have it ask questions
