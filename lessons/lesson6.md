@@ -5,7 +5,8 @@ Flow control learned?
 Data Structures learned?
 
 ## Guided lesson
-[ruby in the browser] (http://www.tutorialspoint.com/ruby/index.htm)
+Some quick background in Ruby, not comprehesive, but to just get the feel of the language. 
+[Ruby in the Browser] (http://coderclub-rails.herokuapp.com/try/ruby)
 
 ### Numbers
 ```ruby
@@ -47,7 +48,7 @@ l += [9]
 l.length
 ```
 
-### Hashes (Dictionary/Associative Arrays) - briefly
+### Hashes (Dictionary/Associative Arrays) - briefly, if desired
 ```ruby
 h = {'key1' => 1, 'key2' => 2 }
 h
@@ -67,12 +68,19 @@ end
 
 ```ruby
 3.times do | i |
-  puts i
+  puts "hi " + i
 end
 ```
 
-## Sphero demo
+## Self Guided
+### Do some turtle graphics in the browser
+[Ruby Turtle] (http://coderclub-rails.herokuapp.com/turtle/draw) 
+
+*Anyone that can draw something interesting, can try it using Sphero!
+
+## Sphero 
 ```ruby
+require 'sphero'
 s = Sphero.start '/dev/rfcomm0'
 s.color('lightblue')
 4.times do | i |
@@ -81,27 +89,4 @@ s.color('lightblue')
 end
 ```
 
-## JRuby Usage
-### Set up:
-* Download jruby jar file:
-[jruby] (https://s3.amazonaws.com/jruby.org/downloads/1.7.17/jruby-complete-1.7.17.jar)
 
-* Download .bat file
-[jruby .bat file] (https://github.com/estryker/coderclub/blob/master/windows_files/jruby.bat)
-
-* Make a directory in C:/ called CoderClub and put the two files in there
-
-### 
-```
-jruby.bat jirb_swing
-```
-
-Try the examples that we used in the Guided lesson. 
-
-Also, check out <Tab> completion - it is very helpful!
-
-## References
-[ruby documentation] (http://ruby-doc.org/core-2.2.0/)
-
-## Extra
-https://www.bloc.io/ruby-warrior/
