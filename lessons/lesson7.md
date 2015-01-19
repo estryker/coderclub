@@ -33,11 +33,17 @@ but you will always have to look things up in documentation like this.
 1. Create an Array of numbers and return the sorted list
 1. Create an Array of numbers and sort the array (in place!) 
 1. Create an Array of numbers and find the lowest and the highest values
+1. Create an Array of numbers, shuffle the values, and print it out
 
 ## Self guided lesson
-Write your own interactive program that a partner can run. Have it ask questions
+* Write a cointoss program.  Have the user type in 'heads' or 'tails', and have the computer randomnly pick heads or tails to see if they match. Alert the user
+** Hint: Use Array.shuffle, Array.first, gets_prompt, and puts_alert 
+*Write a program of rock/paper/scissors. Have the user enter the word (or just the first letter), have the computer randomly pick an item (not based on the user's input!!), and tell you what it picked and who won. 
 
-## JRuby Usage
+#### 
+*Save your text to a document elsewhere. 
+
+## JRuby Usage (if time)
 ### Set up:
 * Download jruby jar file:
 [jruby] (https://s3.amazonaws.com/jruby.org/downloads/1.7.17/jruby-complete-1.7.17.jar)
