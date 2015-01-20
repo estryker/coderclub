@@ -79,6 +79,7 @@ end
 *Anyone that can draw something interesting, can try it using Sphero!
 
 ## Sphero 
+
 ```ruby
 require 'sphero'
 s = Sphero.start '/dev/rfcomm0'
@@ -88,5 +89,15 @@ s.color('lightblue')
     s.keep_going 4
 end
 ```
+
+Note to get the sphero to work on ubuntu, I had to do the following:
+
+```
+$ sudo hcitool scan
+
+$ sudo rfcomm bind /dev/rfcomm0 MACADDR 1
+
+```
+
 
 

@@ -1,4 +1,4 @@
-# Ruby - Strings
+# Ruby - Strings / Arrays
 
 ## Guided lesson - Mini Tasks
 First, go to these three links as tabs in your browser:
