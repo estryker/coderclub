@@ -36,11 +36,9 @@ but you will always have to look things up in documentation like this.
 1. Create an Array of numbers, shuffle the values, and print it out
 
 ## Self guided lesson
-* Write a cointoss program.  Have the user type in 'heads' or 'tails', and have the computer randomnly pick heads or tails to see if they match. Alert the user ** Hint: Use Array.shuffle, Array.first, gets_prompt, and puts_alert 
+* Write a cointoss program.  Have the user type in 'heads' or 'tails', and have the computer randomnly pick heads or tails to see if they match. Alert the user **Hint: Use Array.shuffle, Array.first, gets_prompt, and puts_alert 
 * Write a program of '1-2-3-shoot'. Have the user enter a choice, 'even' or 'odd', then have the user pick a number: 1 or 2.  Have the computer randomly pick a number of 1 or 2 (not based on the user's input!!), and tell you what it picked and who won using 'puts_alert'. 
-*Write a program of rock/paper/scissors. Have the user enter the word (or just the first letter), have the computer randomly pick an item (not based on the user's input!!), and tell you what it picked and who won using 'puts_alert'. 
-
-
+* Write a program of rock/paper/scissors. Have the user enter the word (or just the first letter), have the computer randomly pick an item (not based on the user's input!!), and tell you what it picked and who won using 'puts_alert'. 
 
 #### 
 *Save your text to a document elsewhere. 
