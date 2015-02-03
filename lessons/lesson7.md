@@ -41,7 +41,7 @@ but you will always have to look things up in documentation like this.
 * Write a program of rock/paper/scissors. Have the user enter the word (or just the first letter), have the computer randomly pick an item (not based on the user's input!!), and tell you what it picked and who won using 'puts_alert'. 
 
 #### 
-*Save your text to a document elsewhere. 
+*Save your text to a document elsewhere or create a URL and save that to a text file. 
 
 ## JRuby Usage (if time)
 ### Set up:
