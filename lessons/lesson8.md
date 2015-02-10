@@ -1,8 +1,15 @@
 # Ruby Functions
 
+## No computer portion
+
+Repeat the index card lesson with functions from blockly. 
+
+Why would we want to use functions? 
+
 ## Guided lesson
 
 Previously, we have written a program to prompt a user for input, repeating until they get it right. 
+
 [1-2-3 shoot!](http://coderclub-rails.herokuapp.com/try/ruby/18u4ig8)
 
 If we do this a lot, we might want to make a function:
@@ -17,6 +24,7 @@ end
 possible_odds = ['odd','even']
 user_odd = prompt_for_string("Choose even or odd",possible_odds)
 ```
+[1-2-3 shoot, revised](http://coderclub-rails.herokuapp.com/try/ruby/14z8clm)
 
 Another example of where to use functions is with the Turtle drawing. Here's a function that
 draws a square:
@@ -45,7 +53,7 @@ end
 1. Write a function in Turtle graphics that makes a shape that you want, like a flower or hexagon or whatever. Then call 
 that function in a loop with jumps in between. 
 [Flower example] (http://coderclub-rails.herokuapp.com/turtle/draw/iltlgf )
-1. Write an adder that takes in two numbers, adds them together, and alerts the user what the solution is. 
+1. Write an adder that takes in two numbers, adds them together, and returns the sum. Then alert the user what the solution is. 
 
 ## References
 [ruby documentation] (http://ruby-doc.org/core-2.2.0/)
