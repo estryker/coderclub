@@ -42,8 +42,10 @@ end
 [turtle example] (http://coderclub-rails.herokuapp.com/turtle/draw/wtx277)
 
 ## Self guided lesson
-Write a function in Turtle graphics that makes a shape that you want, like a flower or hexagon or whatever. Then call 
-that function in a loop with jumps in between. **Use the rand(min,max) function to do random jumping
+1. Write a function in Turtle graphics that makes a shape that you want, like a flower or hexagon or whatever. Then call 
+that function in a loop with jumps in between. 
+[Flower example] (http://coderclub-rails.herokuapp.com/turtle/draw/iltlgf )
+1. Write an adder that takes in two numbers, adds them together, and alerts the user what the solution is. 
 
 ## References
 [ruby documentation] (http://ruby-doc.org/core-2.2.0/)
