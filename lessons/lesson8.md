@@ -26,6 +26,16 @@ user_odd = prompt_for_string("Choose even or odd",possible_odds)
 ```
 [1-2-3 shoot, revised](http://coderclub-rails.herokuapp.com/try/ruby/14z8clm)
 
+Now we can duplicate the functions that were on the index cards.  Write a function to double the number given, and call the function.  Then write a function that adds numbers and call the function. 
+
+**Note that gets_prompt returns a string, so call .to_i.  But this way is better:
+
+```ruby
+ def add(n,m)
+   return n.to_i + m.to_i
+ end
+```
+
 Another example of where to use functions is with the Turtle drawing. Here's a function that
 draws a square:
 
