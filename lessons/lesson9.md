@@ -48,6 +48,7 @@ end
 ## Self guided lesson
 
 Take your pick:
+
 1. make your own web page
 1. download Sinatra and build a web server
 
