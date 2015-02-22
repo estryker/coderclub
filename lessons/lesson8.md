@@ -7,6 +7,10 @@ Repeat the index card lesson with functions from blockly.
 Why would we want to use functions? 
 
 ## Guided lesson
+Show this:
+[Flower example] (http://coderclub-rails.herokuapp.com/turtle/draw/iltlgf )
+
+Who would want to draw each petal one by one? Not me, so instead, lets use a function. 
 
 Previously, we have written a program to prompt a user for input, repeating until they get it right. 
 
