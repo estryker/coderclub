@@ -106,8 +106,10 @@ This type of flow control is called 'Event Driven programming'
 
 ## Extra / Homework 
 [Pond game] (https://blockly-games.appspot.com/pond-basic?lang=en)
+
 [Google Turtle](https://blockly-games.appspot.com/turtle?lang=en)
 * point out how to save your work here
+
 [Movie](https://blockly-games.appspot.com/movie?lang=en)
 
 ## Homework 
