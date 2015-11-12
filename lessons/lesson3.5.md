@@ -98,14 +98,15 @@ This type of flow control is called 'Event Driven programming'
 ```
 
 ## Self guided Lesson1 (20 Minutes)
-[Play lab] (http://studio.code.org/s/playlab/stage/1/puzzle/1)
+[Pond game] (https://blockly-games.appspot.com/pond-basic?lang=en)
 
 ## Self Guided Lesson2 (20 Minutes)
+
+[Play lab] (http://studio.code.org/s/playlab/stage/1/puzzle/1)
 
 [Flappy bird!] (http://studio.code.org/flappy/1)
 
 ## Extra / Homework 
-[Pond game] (https://blockly-games.appspot.com/pond-basic?lang=en)
 
 [Google Turtle](https://blockly-games.appspot.com/turtle?lang=en)
 * point out how to save your work here
