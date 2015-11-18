@@ -1,6 +1,11 @@
 # User Input/Output and Variables, Arrays
 
 ## Review - functions
+What functions did we do last week?
+
+* double the number
+* add two numbers
+
 For those who did the pond game, what functions were there? 
 
 * scan(degrees)
@@ -16,7 +21,8 @@ Now, instead of index cards with pre-written inputs/outputs, let the students pu
 Write on the board: Name: with a box around it to lead into using variables. 
 
 Pick 3 (or more) students to answer the question: 'What is your name?'. Once they write their names, 
-have a 4th student say: 'Hello <name>' underneath on the board. 
+have a 4th student say: 'Hello (name)'. Prep the 4th student saying that is their function in life to say
+hello to people. 
 
 ## Ruby 
 
