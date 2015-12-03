@@ -46,6 +46,9 @@ l[-1]
 l[0..2]
 l += [9]
 l.length
+
+l = ["a", "bee","see"]
+l2 = %w[a bee see]
 ```
 
 ### Hashes (Dictionary/Associative Arrays) - briefly, if desired
@@ -70,6 +73,14 @@ end
 3.times do | i |
   puts "hi " + i
 end
+```
+
+### Functions
+```ruby
+def add(num1,num2)
+  return num1 + num2
+end
+
 ```
 
 ## Self Guided
