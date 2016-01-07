@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby 
+
 require 'sphero'
 
 Sphero.start '/dev/rfcomm0' do

@@ -41,3 +41,6 @@ coming back
 The students can do the same thing with Ruby, but this time using a text file and the
 command line, or using interactive mode if you are really brave. Give the students some 
 examples / templates for doing the following:
+
+* Have Sphero go back and forth
+* Have Sphero draw a square
