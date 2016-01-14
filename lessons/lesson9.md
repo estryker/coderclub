@@ -17,6 +17,15 @@ More on that later.
 Let's build our own web page using this as a resource, using all the 'try it yourself' links:
 [HTML basics] (http://www.w3schools.com/html/html_basic.asp)
 
+Things to try:
+* make the text red (use <font color="">
+* center the text (use the <center> tag)
+* make the text italicized (use the <i> tag)
+* make the text bold (use the <strong> tag)
+
+Follow the other examples on that page to make links, show images, etc. 
+
+
 If we wanted to build 'dynamic' content, we could use a web framework like Ruby on Rails
 or Sinatra.  Here's a simple Sinatra example:
 
