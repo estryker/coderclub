@@ -32,7 +32,7 @@ user_odd = prompt_for_string("Choose even or odd",possible_odds)
 
 Now we can duplicate the functions that were on the index cards.  Write a function to double the number given, and call the function.  Then write a function that adds numbers and call the function. 
 
-**Note that gets_prompt returns a string, so call .to_i.  But this way is better:
+**Note that gets_prompt returns a string, so call .to_i.  But this way is better:  
 
 ```ruby
  def add(n,m)
