@@ -71,7 +71,7 @@ end
 
 ```ruby
 3.times do | i |
-  puts "hi " + i
+  puts "hi " + i.to_s
 end
 ```
 
